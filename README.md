@@ -1,4 +1,4 @@
-# OGS-reto-técnico
+# OGS reto técnico
  reto técnico en unity de la sección de alquimia para "the bone"
  
  ## Scrips:<br/>
